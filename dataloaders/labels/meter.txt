@@ -1,0 +1,3 @@
+0	background
+1	pointer
+2	scale
